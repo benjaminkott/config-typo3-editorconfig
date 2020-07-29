@@ -1,0 +1,8 @@
+{
+    "files": {
+        ".editorconfig": ".editorconfig"
+    },
+    "gitignore": [
+        "/.editorconfig"
+    ]
+}
